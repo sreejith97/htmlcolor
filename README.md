@@ -1,2 +1,2 @@
 # htmlcolor
-diff color
+different  color
